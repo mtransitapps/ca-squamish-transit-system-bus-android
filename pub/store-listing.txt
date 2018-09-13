@@ -1,17 +1,18 @@
-Title: Squamish Transit System Bus -…
+Title: Squamish Transit System Bus - MonTransit
 ----------
 Short description:
 Squamish Transit System buses for MonTransit.
-Schedule. Alerts. News.
+Schedule. Real time. News.
 ----------
 What's new in this version?:
-Schedule from August 31, 2018 to May 31, 2019.
+Schedule from September 12, 2018 to May 31, 2019.
+Real-time predictions from NextRide.
 Tweets from @BCTransit.
 ----------
 Full description:
 This app adds Squamish Transit System (BC Transit) buses information to MonTransit.
 
-This app provides the buses schedule and news from YouTube and @BCTransit on Twitter.
+The app contains the planned schedule as well as real time predictions from NextRide and news from YouTube and @BCTransit on Twitter.
 
 Squamish Transit System buses serve Squamish in British Columbia, Canada.
 
@@ -30,7 +31,7 @@ https://github.com/mtransitapps/ca-squamish-transit-system-bus-android
 This app is not related with BC Transit and Squamish Transit System.
 
 Permissions:
-- Other: required to read news from YouTube and Twitter
+- Other: required for real-time schedule predictions from nextride.squamish.bctransit.com and to read news from YouTube and Twitter
 ----------
 Application type: Applications
 ----------
