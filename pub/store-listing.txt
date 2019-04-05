@@ -5,7 +5,7 @@ Squamish Transit System buses for MonTransit.
 Schedule. Real time. News.
 ----------
 What's new in this version?:
-Schedule from March 12, 2019 to June 17, 2019.
+Schedule from April 1, 2019 to July 1, 2019.
 Real-time predictions from NextRide.
 Tweets from @BCTransit.
 ----------
