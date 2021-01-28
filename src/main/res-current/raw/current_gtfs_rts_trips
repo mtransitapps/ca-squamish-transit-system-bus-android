@@ -1,9 +1,9 @@
-18001,0,'Brackendale',180
-18000,0,'Downtown',180
-18100,0,'Downtown',181
-18101,0,'Highlands',181
-18201,0,'Valleycliffe',182
-18300,0,'Downtown',183
-18301,0,'Garibaldi',183
-18400,0,'Downtown',184
-18401,0,'Quest University',184
+201,0,'Brackendale',2
+200,0,'Downtown',2
+300,0,'Downtown',3
+301,0,'Highlands',3
+401,0,'Valleycliffe',4
+500,0,'Downtown',5
+501,0,'Garibaldi',5
+5500,0,'Downtown',55
+5501,0,'Quest U',55
