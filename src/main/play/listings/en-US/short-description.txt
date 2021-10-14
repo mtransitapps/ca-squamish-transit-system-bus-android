@@ -1,2 +1,1 @@
-Squamish Transit System buses for MonTransit.
-Schedule. Real time. News.
+Squamish Transit System buses for MonTransit. Schedule. Real time. News.
